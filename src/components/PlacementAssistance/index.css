@@ -1,0 +1,11 @@
+.placement-card{
+  margin-bottom: 40px;
+}
+.placement-head {
+  text-align: center;
+  text-decoration: 2px solid blue;
+  font-size: 20px;
+}
+.body-bg {
+  background-color: lightslategray;
+}

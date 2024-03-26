@@ -1,0 +1,39 @@
+.choose-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.choose-head {
+  text-align: center;
+  text-decoration: 2px solid blue;
+}
+.grouping {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  width: 80%;
+}
+.card-bg-color {
+  background-color: lightsteelblue;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+  border-radius: 12px;
+}
+.card-why {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.why-bottom-cards {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.card-4 {
+  margin-right: 8px;
+}

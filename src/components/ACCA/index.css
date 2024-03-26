@@ -1,0 +1,13 @@
+.acca {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+@media screen and (max-width:767px){
+  .acca {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+}
